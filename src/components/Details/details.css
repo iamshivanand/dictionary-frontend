@@ -1,0 +1,14 @@
+.detailsDiv {
+  padding: 10px;
+  position: absolute;
+  height: 98vh;
+  width: 100%;
+  background-color: whitesmoke;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+.closeButton {
+  display: flex;
+  flex-direction: row-reverse;
+}
